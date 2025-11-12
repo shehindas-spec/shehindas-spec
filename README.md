@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNldzZuMWVxeWl0eXlxc3l3b2E5dnF1cGN6M29qdm43eHBuM3M4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFo3BEQFmK4cU/giphy.gif" width="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF2YWxxeHhiZnB1Ym5mdjJna3R2Ymp1YnRjaTNld2Zkbm9uNjY4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUNNnf1vwvhRuGCBMb/giphy.gif" width="500">
 </p>
 
-<h1 align="center">🛡️<b> shehin-spec </b></h1>
+<h1 align="center"><b> shehin-spec </b></h1>
 <h3 align="center"> </h3>
 
 ---
