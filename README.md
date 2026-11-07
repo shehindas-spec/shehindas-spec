@@ -83,30 +83,37 @@ A football match alarm application designed around match reminders for FC Barcel
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shehindas-spec&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shehindas-spec&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehindas-spec&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehindas-spec&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shehindas-spec&theme=tokyonight&hide_border=true" />
+<br><br>
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shehindas-spec)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shehindas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehindas@gmail.com)
+<img width="65%" src="https://streak-stats.demolab.com/?user=shehindas-spec&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/shehindas-spec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shehindas@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://t.me/Shehindas">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</p>
 ---
 
 <div align="center">
