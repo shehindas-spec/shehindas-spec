@@ -2,12 +2,12 @@
 
 # Hi, I'm Shehindas Das 👋
 
-### BCA Graduate | Software Developer | Tech Enthusiast
+### MCA Student | BCA Graduate | Software Developer | Tech Enthusiast
 
 Building practical applications and interactive experiences through code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shehindas--spec-181717?style=for-the-badge&logo=github)](https://github.com/shehindas-spec)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehindas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shehindas@gmail.com)
 
 </div>
 
@@ -15,15 +15,16 @@ Building practical applications and interactive experiences through code.
 
 ## 👨‍💻 About Me
 
-I'm a BCA graduate passionate about software development, mobile applications, web technologies, and interactive projects.
+I'm currently pursuing my **Master of Computer Applications (MCA)** after successfully completing my **Bachelor of Computer Applications (BCA)**.
 
-I enjoy turning ideas into practical projects, exploring new technologies, solving problems, and continuously improving my development skills.
+I'm passionate about software development, mobile applications, web technologies, and interactive experiences. I enjoy turning ideas into practical projects, exploring new technologies, solving problems, and continuously improving my development skills.
 
-- 🎓 BCA Graduate
+- 🎓 Currently pursuing MCA
+- 🎓 Completed BCA
 - 💻 Interested in Software & Application Development
 - 📱 Building applications with Flutter and Dart
-- 🌐 Exploring web development and 3D experiences
-- 🛠️ Interested in Python, Flask and database technologies
+- 🌐 Exploring Web Development and 3D Experiences
+- 🛠️ Working with Python, Flask and Database Technologies
 - 🚀 Always learning, building and experimenting
 
 ---
@@ -83,42 +84,53 @@ A football match alarm application designed around match reminders for FC Barcel
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shehindas-spec&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shehindas-spec&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehindas-spec&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehindas-spec&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=shehindas-spec&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=shehindas-spec&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<h2 align="center">🌐 Connect With Me</h2>
+---
 
-<p align="center">
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/shehindas-spec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shehindas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://t.me/Shehindas">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-</p>
+<br><br>
+
+**Email:** [shehindas@gmail.com](mailto:shehindas@gmail.com)
+
+**GitHub:** [github.com/shehindas-spec](https://github.com/shehindas-spec)
+
+**Telegram:** [@Shehindas](https://t.me/Shehindas)
+
+</div>
+
 ---
 
 <div align="center">
 
-### 💡 "Learn. Build. Improve. Repeat."
+### 💡 Learn. Build. Improve. Repeat.
 
 Thanks for visiting my profile! ⭐
 
